@@ -1,6 +1,6 @@
 # LiveChatApp
 
 
-**screen Shot**
+**Screen Shot**
 [ss](ss.png)
 
